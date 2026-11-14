@@ -1,0 +1,11 @@
+# segredos e configuração do servidor nunca entram aqui
+.env
+.env.*
+*.key
+*.pem
+# pacotes de correção e saídas geradas
+correcao_*.py
+backup/
+__pycache__/
+.DS_Store
+Thumbs.db
